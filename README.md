@@ -10,3 +10,4 @@ In this project, matlab programming using for preprocessing and python programmi
 ouput of preprocessing with matlab in .mat format using in role of input for labeling and training the Network with python.
 
 We investigated this project has good accuracy for nsF5 Steganography Algorithm. 
+the Dataset of this project is Bossbase with 10000 images. we changed the format of images to JPEG and after that use 8000 images for train set, 1000 images for validation set and 1000 images for test set.
