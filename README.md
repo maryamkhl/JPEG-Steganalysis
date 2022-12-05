@@ -7,7 +7,7 @@ Among the several image formats, JPEG is the most widely used compression method
 
 In this project, matlab programming using for preprocessing and python programming with Keras library in Jupyter IDM used for Nerual Network and Image Classification. 
 
-ouput of preprocessing with matlab in .mat format using in role of input for labeling and training the Network with python.
+ouput of preprocessing with matlab in .mat format using in role of input for labeling and training the Network with python. you should change the size of inputs for each code.
 
 We investigated this project has good accuracy for nsF5 Steganography Algorithm. 
 the Dataset of this project is Bossbase with 10000 images. we changed the format of images to JPEG and after that use 8000 images for train set, 1000 images for validation set and 1000 images for test set. You can download dataset and Steganography algorithms from the link below:
